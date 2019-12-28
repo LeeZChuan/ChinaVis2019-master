@@ -1,9 +1,3 @@
-<p align="center">
-  <br>
-  <img width="200" src="./logo.png" alt="logo">
-  <br>
-  <br>
-</p>
 
 
 # ChinaVisProject
