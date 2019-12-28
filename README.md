@@ -4,7 +4,7 @@
 
 
  Chinavis2019挑战1 一等奖作品 
- 含项目演示视频、论文、答卷、项目截图
+ 含项目演示视频、论文、答卷
    
 ## 技术栈
     Layui + ECharts + Tableau + D3.js + Python
