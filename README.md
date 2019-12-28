@@ -7,7 +7,7 @@
  含项目演示视频、论文、答卷、项目截图
    
 ## 技术栈
-    Layui + ECharts + Tableau + D3.js + 
+    Layui + ECharts + Tableau + D3.js + Python
 
 ## 开发
 ```bash
