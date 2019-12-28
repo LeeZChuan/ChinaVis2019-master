@@ -9,7 +9,7 @@
 ## 技术栈
     Layui + ECharts + Tableau + D3.js + Python
 
-## 开发
+## 克隆项目
 ```bash
     # 克隆项目
     git clone https://github.com/LeeZChuan/ChinaVis2019-master.git
@@ -24,6 +24,6 @@
 
 ## 答卷&论文
 
-
+answer文件夹中
 
 Copyright (c) 2019-present LeeZChuan
