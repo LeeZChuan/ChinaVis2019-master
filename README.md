@@ -4,6 +4,7 @@
 
 
  Chinavis2019挑战1 一等奖作品 
+ 
  含项目演示视频、论文、答卷
    
 ## 技术栈
@@ -11,7 +12,7 @@
 
 ## 克隆项目
 ```bash
-    # 克隆项目
+
     git clone https://github.com/LeeZChuan/ChinaVis2019-master.git
 
 
@@ -25,5 +26,14 @@
 ## 答卷&论文
 
 answer文件夹中
+
+## 其他
+
+* 感兴趣的可以关注我的个人公众号，上面会不时分享相关技术与心得
+
+* 公众号名称：当生活遇上Coding
+
+![公众号](img/微信公众号.jpg)
+
 
 Copyright (c) 2019-present LeeZChuan
