@@ -1,20 +1,19 @@
 
 
-# :leaves:智能场馆安全运营可视分析 (ChinaVis2019)
+# :leaves: SCVis:基于传感器数据的异常可视化分析 
 
+智能场馆安全运营可视分析 (ChinaVis2019)
 
  Chinavis2019挑战1 一等奖作品 
  
- 含项目演示视频、论文、答卷
+ 含项目演示视频、论文、答卷、讲解ppt
    
 ## 技术栈
     Layui + ECharts + Tableau + D3.js + Python
 
 ## 克隆项目
 ```bash
-
     git clone https://github.com/LeeZChuan/ChinaVis2019-master.git
-
 
 ```
 
